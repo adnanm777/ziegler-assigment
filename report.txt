@@ -1,0 +1,7 @@
+========= Test Execution Report =========
+
+Products Added to Cart:
+
+Failures and Logs:
+- Add to cart failed for product at URL: https://automationteststore.com/index.php?rt=product/product&path=49&product_id=80
+- Add to cart failed for product at URL: https://automationteststore.com/index.php?rt=product/product&path=49&product_id=64
